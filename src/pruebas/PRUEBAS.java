@@ -7,8 +7,7 @@ public class PRUEBAS {
         
 
         System.out.println("Prueba Git Toolbar");
-        System.out.println("Practica plugins");
-        
+        System.out.println("Prueba entornos de desarrollo");
        
     }
 
