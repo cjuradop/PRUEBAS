@@ -6,8 +6,10 @@ public class PRUEBAS {
         System.out.println("Hola Mundo");
         
 
-        System.out.println("PARSE");
-        System.out.println("PARSE");
+        System.out.println("Prueba Git Toolbar");
+        System.out.println("Practica plugins");
+        
+       
     }
 
 }
